@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+# Trained model files
+*.pth
+
+# Local database
+predictions.db
+
+# Dataset
+Data/
+
+# Python cache
+.pytest_cache/
